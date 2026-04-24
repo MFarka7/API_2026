@@ -1,8 +1,8 @@
 # API_2026
 ### Your Flow
 1) Create new user
-  - test t
-  - test
+    - test t
+    -  test
 3) Verify that balance on user's account is 100 000 Czechitokens
 4) Create new account for that user
 5) Rename that account
